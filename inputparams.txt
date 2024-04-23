@@ -1,0 +1,6 @@
+Compliance   0.76
+Sensitivity  0.86
+ClinicalDet  0.05
+Npopulation  100000	
+Niterations  10
+ScreenMode   1
