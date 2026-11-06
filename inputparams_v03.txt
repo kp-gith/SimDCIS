@@ -1,0 +1,14 @@
+Compliance   		0.76
+Sensitivity  		0.86
+Specificity		0.90
+ClinicalDet  		0.02532
+cost_screen  		100
+cost_biopsy  		200
+cost_treatment  	1000
+discount_cost		0.03
+discount_refage		50
+Npopulation  		100000	
+Niterations  		10
+ScreenAges		50.5 52.5 54.5 56.5 58.5 60.5 62.5 64.5 66.5 68.5 70.5 72.5 74.5
+
+
